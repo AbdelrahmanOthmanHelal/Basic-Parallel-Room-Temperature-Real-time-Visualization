@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CalculateAveragesCppAPI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+     Creating library E:\College\Materials\Year 4 - Term 1\Scientific Visualization\Project\Deliverables\10\Visualization project\Debug\CalculateAveragesCppAPI.lib and object E:\College\Materials\Year 4 - Term 1\Scientific Visualization\Project\Deliverables\10\Visualization project\Debug\CalculateAveragesCppAPI.exp
+  CalculateAveragesCppAPI.vcxproj -> E:\College\Materials\Year 4 - Term 1\Scientific Visualization\Project\Deliverables\10\Visualization project\Debug\CalculateAveragesCppAPI.dll
+  CalculateAveragesCppAPI.vcxproj -> E:\College\Materials\Year 4 - Term 1\Scientific Visualization\Project\Deliverables\10\Visualization project\Debug\CalculateAveragesCppAPI.pdb (Full PDB)
